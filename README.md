@@ -2,7 +2,7 @@
 
 ## Overview
 
-Explore the vibrant world of Bollywood cinema with this dataset featuring a curated collection of Hindi movies released between 2000 and 2024. The dataset includes 7,420 entries, providing valuable insights into Bollywood movie trends.
+Explore the vibrant world of Bollywood cinema with this dataset featuring a curated collection of Hindi movies. The dataset includes 7,420 entries, providing valuable insights into Bollywood movie trends.
 
 ## Content
 
